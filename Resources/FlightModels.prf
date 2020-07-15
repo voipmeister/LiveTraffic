@@ -201,6 +201,9 @@ MediumJets     .*
 ^AIR[[:digit:]]*$
 ^AGL[[:digit:]]*$
 ^SAFE[[:digit:]]*$
+^FAUNA[[:digit:]]{1}$
+^OBRAS[[:digit:]]{1}$
+^HAL[[:digit:]]{1}*$
 ^MEDIC[[:digit:]]*$
 ^ARFF[[:digit:]]*$
 ^MICC$
