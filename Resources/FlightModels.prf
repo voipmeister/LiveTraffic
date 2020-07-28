@@ -207,3 +207,4 @@ MediumJets     .*
 ^MEDIC[[:digit:]]*$
 ^ARFF[[:digit:]]*$
 ^MICC$
+^LGGRU[[:digit:]]{1,2}$
